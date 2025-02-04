@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.vue diff=html
+
+*.ico binary
+*.png binary
+*.woff2 binary
+
+/.github export-ignore
